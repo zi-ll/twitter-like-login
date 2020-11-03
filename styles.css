@@ -1,0 +1,36 @@
+.container {
+    width: 500px;
+    margin:0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.logo {
+    width: 40px; height: 40px;
+}   
+.input {
+    width: 400px; height: 30px;
+    background-color:rgb(240, 243, 247);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid grey;
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+.email-container {
+    margin-bottom: 4px;
+    margin: 0 auto;
+}
+.login-button{
+    width: 420px; height: 30px;
+    background-color:#9bd1f9;
+    border: 0;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    font-size:small;
+    color: white;
+}
+.login-footer a {
+    text-decoration: none;
+    padding-right: 5px;
+}
